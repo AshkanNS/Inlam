@@ -1,5 +1,6 @@
 import math
 
+#ange kordinater för o räkna ut avstånden mellan de
 x1 = float(input("x1? "))
 x2 = float(input("x2? "))
 y1 = float(input("y1? "))
