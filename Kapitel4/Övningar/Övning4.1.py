@@ -2,7 +2,7 @@
 #När användaren skriver in ett negativt tal ska programmet skriva ut det största och det minsta av de positiva talen.
 
 största = 0
-minsta = 0 #ett stort tal
+minsta = 0 
 while True:
     tal = float(input("skriv tal: "))
     if tal < 0:
